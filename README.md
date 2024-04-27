@@ -4,10 +4,9 @@
 
 ### Learn Together
 
-[Learn Together - Full series information](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkJweUVoa0VSdlZWdTR0VVotZHlFTG1Hc2YtZ3xBQ3Jtc0tuZndPOUNOY3FtckNhcV9obVk3cEtvblJOSmhnVE11dEw3Z1VqbzFDQlI1aDhwV2VpYm1mLWE3ZDNuTTE4S19xaHg4Vk92aFFmNjNjTTZGZW4yZGNIR0poZTNhZG5IMWJ4V2o4bHRCUk5FQzJNQXBPZw&q=https%3A%2F%2Faka.ms%2Flearnlive-microsoft-fabric-wave-2&v=teJ74q92Ag8)
+[Learn Together - Full series information](https://learn.microsoft.com/en-us/shows/learn-live/microsoft-fabric-learn-together/)
 
-
-[Learn Together - more info](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1ZNb19jUzJmV1AzUXhUVzI5RnU4a1B2TERid3xBQ3Jtc0tuMVYwdHNXZ3pZYlBTRWlTR1VhajZGV0dJb3pMbzh3b0FjUXVEN0pfZ1VMZWJKWkdRcm5ZRXVNV3ZtMXFXTVluZ21FZHFRbTVDNUlvajYzOHRIYkpxaUZfVE51SzBHa3pGNk45WHVMdElzRlZudEUzcw&q=https%3A%2F%2Faka.ms%2Flearnlive-microsoft-fabric-wave-2-Ep201&v=teJ74q92Ag8)
+[Learn Together - https://aka.ms/learntogether](https://aka.ms/learntogether)
 
 [Playlist](https://www.youtube.com/playlist?list=PL1N57mwBHtN0-AJVURyfqbdmX65JMXSVv)
 
