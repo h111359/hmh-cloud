@@ -12,8 +12,8 @@
 
 ### Microsoft Learn for Fabric
 
-[Complete the Learn module: https://aka.ms/learnlive-20240220G](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXpWSkhienQwQlE2VVJlT09HT2NuTTFZdlpQZ3xBQ3Jtc0tuU2FqcXJDVHQtYjc3elp6S2QwU3dGS21FaV9wckNxTEp6b1p6MEVEampPZFlaeXdhYlVLTDNpcENYMDRSRjJaLWxsOEdSajFIXzdncmdRY21MLW5lS1k5N0Z6SS1YMTJIR3MzTV90TTRGQUJTT1NXcw&q=https%3A%2F%2Faka.ms%2Flearnlive-20240220G&v=teJ74q92Ag8)
+[Complete the Learn module: https://aka.ms/learnlive-20240220G](https://learn.microsoft.com/en-us/training/modules/introduction-end-analytics-use-microsoft-fabric/?WT.mc_id=academic-119026-lbugnion)
 
-[Complete the Learn module (2): https://aka.ms/learnlive-20240220G2](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUEwYUJqODBuRVRzd2VIeHFGMy1wYnA1SUJSZ3xBQ3Jtc0ttZmZldHhQdllSMERxWmxuUGlHWTRQZXlJVHBWLTZLZFZ5bHkyRTBmbkNCd0g4Z0JnTi1DTDJjTkxwdVpOZnhweUtob0k0Ri1GSEk3SC1ieVloZHRQSkpvbnV6ZE1PdGVPZmlOWTZJRFdfb1B2QmxqQQ&q=https%3A%2F%2Faka.ms%2Flearnlive-20240220G2&v=teJ74q92Ag8)
+[Complete the Learn module (2): https://aka.ms/learnlive-20240220G2](https://learn.microsoft.com/en-us/training/modules/get-started-lakehouses/?WT.mc_id=academic-119026-lbugnion)
 
 [Tables in data warehousing in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-warehouse/tables)
